@@ -8,7 +8,6 @@ AI-assisted release intelligence for SQL and Oracle environments.
 
 ![Release Dashboard](screenshots/release-dashboard.png)
 
-
 ![Release Dashboard 2](screenshots/release-dashboard2.png)
 
 ---
