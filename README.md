@@ -7,18 +7,15 @@ AI-assisted release intelligence for SQL and Oracle environments.
 ## Dashboard Preview
 
 ![Release Dashboard](screenshots/release-dashboard.png)
-<img width="1536" height="587" alt="release-dashboard" src="https://github.com/user-attachments/assets/a8121e1e-e817-4555-8f6c-829b8e9b0af3" />
 
 
 ![Release Dashboard 2](screenshots/release-dashboard2.png)
-<img width="485" height="386" alt="release-dashboard2" src="https://github.com/user-attachments/assets/43c7a488-2bbd-4cc1-88cf-c0bbb0e1bf7f" />
 
 ---
 
 ## Dependencies & Impact Analysis
 
 ![Dependencies](screenshots/release-dependencies.png)
-<img width="491" height="613" alt="release-dependencies" src="https://github.com/user-attachments/assets/fee6278e-35ba-4985-8efe-4bc5c68b8f86" />
 
 ---
 
